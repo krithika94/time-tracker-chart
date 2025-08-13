@@ -1,4 +1,4 @@
-# 💌 Time Tracker Pie Chart App
+# ⌚ Time Tracker Pie Chart App
 
 A lightweight, interactive React app to track daily activities, assign custom colors, and visualize them in a pie chart — with an automatic warning when your total time exceeds 24 hours.
 
